@@ -44,8 +44,8 @@ const Navbar: React.FC = () => {
                 </Link>
             )}
             
-            {/* Link temporário para visualização da Copy */}
-            <Link to="/copy" className="text-sm font-bold text-blue-600 hover:text-blue-700 transition-colors border border-blue-200 px-3 py-1 rounded-md bg-blue-50">
+            {/* Link temporário para visualização da Copy - Corrigido para Rosa */}
+            <Link to="/copy" className="text-sm font-bold text-[#D94668] hover:text-[#b02e4b] transition-colors border border-rose-200 px-3 py-1 rounded-md bg-rose-50">
                 NOVA COPY
             </Link>
             
